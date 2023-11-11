@@ -1,7 +1,7 @@
-- Hi, my name is matuskurilak and at the moment, I study Software Engineering at Technical University of Kosice.
+# About myself
+I am a student of Software Engineering at Technical University of Kosice. I really enjoy learning programming languages, as well as pretty much anything around it.
+
+## Skills and Experiences
+- 💻 C, C++, Python, Java
+- 🌍 HTML, CSS
   
-- I’m interested in programming of all sorts, but currently, my knowledge only reaches out to these languages: Java, C, C++ and Python.
-  
-- 📫 For any additional information about me, be sure to check out my:
-  
-  LinkedIn profile: www.linkedin.com/in/matúš-kuriľak-853853275
